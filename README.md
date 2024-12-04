@@ -49,6 +49,10 @@ $ pip install numpy
 
 <!-- CONTRIBUTING -->
 
+# Key Results 
+ - Excellent way to contour the defects
+ - Could be very helpful for Area Defect Detection (like black spots, scratches, flashes etc)
+
 # Contributing
 
 Create a new branch and make contributions if you find similar relavent projects
